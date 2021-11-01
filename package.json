@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/workwith-n/node-jdbc.git"
+    "url": "git://github.com/workwith-n/jdbc-altibase.git"
   },
   "directories": {
     "doc": ".",

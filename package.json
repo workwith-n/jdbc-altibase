@@ -1,6 +1,6 @@
 {
   "name": "jdbc-altibase",
-  "version": "0.7.9",
+  "version": "0.8.0",
   "description": "Node Module JDBC wrapper",
   "main": "index.js",
   "dependencies": {
